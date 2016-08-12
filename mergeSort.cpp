@@ -1,5 +1,6 @@
 #include<stdio.h>
 #define m 6
+//merge Sort
 void merge_(int arr[],int temp[],int low1,int up1,int low2,int up2)
 {
     int i=low1;
